@@ -21,3 +21,7 @@ background: #423a6f;
 .delete{
 cursor: pointer;
 }
+
+.filtered{
+    display: none !important;
+}
